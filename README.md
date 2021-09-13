@@ -1,2 +1,1 @@
-# JavaScript
-Web Development Bootcamp with Dr. Angela Yu
+introduction.js includes basic functions and activities.
